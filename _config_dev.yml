@@ -1,0 +1,8 @@
+url: http://localhost:4001/
+baseurl: /cogs108
+destination: dev-docs/
+port: 4001
+
+incremental: false
+livereload: true
+livereload_port: 35730

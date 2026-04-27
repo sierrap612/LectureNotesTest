@@ -1,0 +1,390 @@
+- week: 1
+  title: "Week 1 - Welcome & Version Control"
+  days:
+    - date: "2026-03-30"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Welcome!
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/00-Welcome.pdf
+
+    - date: "2026-04-01"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Version Control I
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/01-VersionControl.pdf
+        - label: DISC
+          type: disc
+          title: Python review (nothing to turn in)
+
+    - date: "2026-04-03"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Version Control II
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/02-MoreVersionControl.pdf
+        - label: DISC
+          type: disc
+          title: Python review (nothing to turn in)
+
+- week: 2
+  title: "Week 2 - Data, Intuition & Wrangling"
+  days:
+    - date: "2026-04-06"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Data & Intuition I
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/03-Data.pdf
+
+    - date: "2026-04-08"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Data & Intuition II
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/04-Intuition.pdf
+        - label: DUE
+          type: hw
+          title: "<b>Practice assignment due</b>"
+        - label: DUE
+          type: hw
+          title: "<b>Pre-course survey due</b>"
+        - label: DISC
+          type: disc
+          title: Q1 and D1 (git and conda)
+
+    - date: "2026-04-10"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Data Wrangling
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/05-Pandas.ipynb
+        - label: DUE
+          type: hw
+          title: "<b>D1 due</b>"
+        - label: DISC
+          type: disc
+          title: Q1 and D1 (git and conda)
+
+- week: 3
+  title: "Week 3 - Ethics, Questions & Data Viz"
+  days:
+    - date: "2026-04-13"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Ethics
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/06-Ethics.pdf
+
+    - date: "2026-04-15"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Data Science questions
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/07-Questions.pdf
+        - label: DUE
+          type: hw
+          title: "<b>GitHub ID due</b>"
+        - label: DUE
+          type: hw
+          title: "<b>Group signup due</b>"
+        - label: DISC
+          type: disc
+          title: Q2 and D2 (data)
+
+    - date: "2026-04-17"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Data viz principles
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/08-Datavis.ipynb
+        - label: DUE
+          type: hw
+          title: "<b>D2 due</b>"
+        - label: DISC
+          type: disc
+          title: Q2 and D2 (data)
+
+- week: 4
+  title: "Week 4 - EDA, Geospatial & Inference I"
+  days:
+    - date: "2026-04-20"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Exploratory Data Analysis
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/09-Analysis.pdf
+
+    - date: "2026-04-22"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Geospatial
+          slides: https://github.com/COGS108/Lectures-Sp26/blob/main/10-EDA.pdf
+        - label: DUE
+          type: hw
+          title: "<b>A1 due</b>"
+        - label: DUE
+          type: hw
+          title: "<b>Project Review due</b>"
+        - label: DISC
+          type: disc
+          title: Q3 and D3 (viz / geospatial)
+
+    - date: "2026-04-24"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Inference I
+        - label: DUE
+          type: hw
+          title: "<b>D3 due</b>"
+        - label: DISC
+          type: disc
+          title: Q3 and D3 (viz / geospatial)
+
+- week: 5
+  title: "Week 5 - Inference & Linear Models"
+  days:
+    - date: "2026-04-27"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Inference II
+
+    - date: "2026-04-29"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Non parametric inference
+        - label: DUE
+          type: hw
+          title: "<b>Project Proposal due</b>"
+        - label: DISC
+          type: disc
+          title: Q4 and D4 (inference)
+
+    - date: "2026-05-01"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Linear models I
+        - label: DUE
+          type: hw
+          title: "<b>D4 due</b>"
+        - label: DISC
+          type: disc
+          title: Q4 and D4 (inference)
+
+- week: 6
+  title: "Week 6 - Linear Models, DR & ML"
+  days:
+    - date: "2026-05-04"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Linear models II
+
+    - date: "2026-05-06"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Dimensionality Reduction
+        - label: DUE
+          type: hw
+          title: "<b>A2 due</b>"
+        - label: DISC
+          type: disc
+          title: Q5 and D5 (linear models)
+
+    - date: "2026-05-08"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Machine Learning I
+        - label: DUE
+          type: hw
+          title: "<b>D5 due</b>"
+        - label: DISC
+          type: disc
+          title: Q5 and D5 (linear models)
+
+- week: 7
+  title: "Week 7 - Machine Learning"
+  days:
+    - date: "2026-05-11"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Machine Learning II
+
+    - date: "2026-05-13"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Machine Learning III
+        - label: DUE
+          type: hw
+          title: "<b>Checkpoint #1: Data due</b>"
+        - label: DISC
+          type: disc
+          title: Q6 and D6 (DR / ML)
+
+    - date: "2026-05-15"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Machine Learning IV
+        - label: DUE
+          type: hw
+          title: "<b>D6 due</b>"
+        - label: DISC
+          type: disc
+          title: Q6 and D6 (DR / ML)
+
+- week: 8
+  title: "Week 8 - NLP & How to Be Wrong"
+  days:
+    - date: "2026-05-18"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: NLP I
+
+    - date: "2026-05-20"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: NLP II
+        - label: DUE
+          type: hw
+          title: "<b>A3 due</b>"
+        - label: DISC
+          type: disc
+          title: Q7 and D7 (ML / NLP)
+
+    - date: "2026-05-22"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: How to be wrong I
+        - label: DUE
+          type: hw
+          title: "<b>D7 due</b>"
+        - label: DISC
+          type: disc
+          title: Q7 and D7 (ML / NLP)
+
+- week: 9
+  title: "Week 9 - How to Be Wrong"
+  days:
+    - date: "2026-05-25"
+      in_class: false
+      events:
+        - label: HOLIDAY
+          type: lecture
+          title: NO LECTURE - Memorial Day
+
+    - date: "2026-05-27"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: How to be wrong II
+        - label: DUE
+          type: hw
+          title: "<b>Checkpoint #2: EDA due</b>"
+        - label: DISC
+          type: disc
+          title: Q8 and D8 (how to be wrong)
+
+    - date: "2026-05-29"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: How to be wrong III
+        - label: DUE
+          type: hw
+          title: "<b>D8 due</b>"
+        - label: DISC
+          type: disc
+          title: Q8 and D8 (how to be wrong)
+
+- week: 10
+  title: "Week 10 - Wrap Up"
+  days:
+    - date: "2026-06-01"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: How to be wrong IV
+
+    - date: "2026-06-03"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Guest lecture / catch up
+        - label: DUE
+          type: hw
+          title: "<b>A4 due</b>"
+        - label: DISC
+          type: disc
+          title: Project help - no lab or quiz
+
+    - date: "2026-06-05"
+      in_class: true
+      events:
+        - label: LEC
+          type: lecture
+          title: Your future
+        - label: DISC
+          type: disc
+          title: Project help - no lab or quiz
+
+- week: Finals
+  title: "Finals Week"
+  days:
+
+    - date: "2026-06-10"
+      in_class: false
+      events:
+        - label: DUE
+          type: hw
+          title: "<b>Final project due</b>"
+        - label: DUE
+          type: hw
+          title: "<b>Video due</b>"
+        - label: DUE
+          type: hw
+          title: "<b>Team eval survey due</b>"
+        - label: DUE
+          type: hw
+          title: "<b>Post-course survey due</b>"
