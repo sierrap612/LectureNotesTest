@@ -34,7 +34,7 @@ tagline: Data Science in Practice
 # the value below is correct. If you add the CNAME for dsc40a.com, change
 # `url` to `https://dsc40a.com`.
 url: https://sierrap612.github.io
-baseurl: /cogs108
+baseurl: /LectureNotesTest
 
 
 ###### Build settings
